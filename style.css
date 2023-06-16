@@ -5,7 +5,7 @@
 }
 
 body{
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-family: 'Poppins', sans-serif;
     background: whitesmoke;
 }
 
@@ -24,7 +24,6 @@ body{
 .top-img{
     height: 240px;
     width: 100%;
-    background: greenyellow;
     position: relative;
     background-image: url(bg.jpg);
     background-size: cover;
@@ -96,3 +95,23 @@ body{
     border-radius: 50%;
     box-shadow: -10px 10px 0 whitesmoke;
 }
+
+.price p{
+    position: relative;
+    width: 80%;
+    background: white;
+    padding: 10px 10px;
+    margin: 15px 15px;
+    border-radius: 8px;
+    font-weight: 400;
+    text-align: center;
+    font-size: 1.1rem;
+}
+
+.price ul{
+    font-size: 1.2rem;
+    position: absolute;
+    inset: 90px 0 0 40px;
+    color: white;
+}
+
