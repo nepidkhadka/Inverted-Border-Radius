@@ -51,3 +51,48 @@ body{
     border-right: 10px solid whitesmoke; 
     border-top-right-radius: 25px ;
 }
+
+.price::before{
+    content: '';
+    position: absolute;
+    width: 25px;
+    height: 25px;
+    background-color: transparent;
+    border-radius: 50%;
+    box-shadow: -10px -10px 0 whitesmoke;
+}
+
+.price::after{
+    content: '';
+    position: absolute;
+    right: -25px;
+    bottom: 0;
+    width: 25px;
+    height: 25px;
+    background-color: transparent;
+    border-radius: 50%;
+    box-shadow: -10px 10px 0 #272a2f;
+}
+
+.top-img::before{
+    content: '';
+    position: absolute;
+    bottom: 70px;
+    width: 25px;
+    height: 25px;
+    background-color: transparent;
+    border-radius: 50%;
+    box-shadow: -10px 10px 0 whitesmoke;
+}
+
+.top-img::after{
+    content: '';
+    position: absolute;
+    right: 125px;
+    bottom: 0px;
+    width: 25px;
+    height: 25px;
+    background-color: transparent;
+    border-radius: 50%;
+    box-shadow: -10px 10px 0 whitesmoke;
+}
