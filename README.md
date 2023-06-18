@@ -1,15 +1,15 @@
 # Inverted-Border-Radius 😀
-I have tried a unique CSS technique for creating inverted border radius effects on elements. 
-This innovative approach was inspired Kevin Powell &amp; Online Tutorials - YT
+I have tried a unique CSS technique for creating inverted border-radius effects on elements. 
+This innovative approach was inspired by Kevin Powell &amp; Online Tutorials - YT
 
-In this repository, you will find a CSS code snippets and examples that demonstrate how to implement the inverted border radius effect in your web projects. 
+In this repository, you will find CSS code snippets and examples that demonstrate how to implement the inverted border-radius effect in your web projects. 
 The code is well-documented and organized, making it easy to understand and incorporate into your own codebase.
 ## Usage
-To use the digital clock, Visit Below Link
+To view the Inverted-Border-Radius Design, Visit Below Link
 
-> 🟢 Live URL : https://nepidkhadka.github.io/Inverted-Border-Radius/
+> 🟢 Live URL: https://nepidkhadka.github.io/Inverted-Border-Radius/
 
-## OR ,
+## OR,
 Follow these steps:
 1. Clone the repository or download the project files to your local machine.
 2. Open the index.html file in a web browser.
