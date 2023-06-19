@@ -13,7 +13,7 @@ To view the Inverted-Border-Radius Design, Visit Below Link
 Follow these steps:
 1. Clone the repository or download the project files to your local machine.
 2. Open the index.html file in a web browser.
-3. The digital clock will be displayed on the webpage, showing the current time.
+3. The Inverted Border Radius design will be displayed on the webpage, showing the current time.
 4. The clock will automatically update every second.
 
 ## Screenshots 📸
